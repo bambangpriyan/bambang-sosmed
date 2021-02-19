@@ -1,0 +1,3 @@
+simbassi sosmed
+-sosmed 1
+-sosmed 2
